@@ -6,20 +6,23 @@
 
 Latest version `0.12.0`
 
-Add the following to your **Gemfile**
+There are two ways to install the wrapper:
+
+1. Add the following to your **Gemfile**
 
     gem 'open-weather'
 
-  or
-
+2.
+```
     $ gem install open-weather
+```
 
 ## Usage
 
 
-#### Getting and using the API key
+### Getting and using the API key
 
-How to get an API key and tips for an effective usage of the API:
+Get the API key and the API user guide from the following:
 http://openweathermap.org/appid
 
 
